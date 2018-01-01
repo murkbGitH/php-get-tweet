@@ -6,24 +6,23 @@ Twitter API get tweet post & view web sites!!
 
 
 ## Description
-get-tweet.php get post tweet & output jsonfiles
+get-tweet.php get post tweet & output jsonfiles  
 view-tweet.php jsonfile parse view website output html
 
-## Demo
-
-## VS.
-
 ## Requirement
-
-## Usage
-https://developer.twitter.com/
-https://twitteroauth.com/
+https://developer.twitter.com/  
+https://twitteroauth.com/  
 ->https://github.com/abraham/twitteroauth
 
-## Install
-npm install get-tweet
+## Usage
 
-## Contribution
+1. >REST_API/#application  
+   >REST_API/#access_token
+
+2. https://github.com/abraham/twitteroauth
+
+## Install
+```npm install get-tweet```
 
 ## Licence
 
