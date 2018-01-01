@@ -1,0 +1,16 @@
+{
+  "name": "get-tweet",
+  "version": "0.0.1",
+  "main": "",
+  "description": "Twitter API get tweet post & view web sites!!",
+  "keywords": [
+  "twitter",
+  "twitteroauth",
+  "json"
+  ],
+  "author": "t-niiru",
+  "license": "MIT",
+  "dependencies": {
+  "https://api.twitter.com": "1.1"
+  }
+  }
