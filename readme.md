@@ -21,6 +21,7 @@ https://twitteroauth.com/
 ->https://github.com/abraham/twitteroauth
 
 ## Install
+npm install get-tweet
 
 ## Contribution
 
